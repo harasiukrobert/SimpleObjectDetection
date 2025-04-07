@@ -1,0 +1,16 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_1/PNGImages/ETHZ_sideviews-cars/sportscar2-sml-lt.png"
+Image size (X x Y x C) : 210 x 130 x 3
+Database : "The VOC2005 Dataset 1 Database (ETHZ)"
+Objects with ground truth : 1 { "PAScarSide" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PAScarSide")
+Original label for object 1 "PAScarSide" : "carSide"
+Bounding box for object 1 "PAScarSide" (Xmin, Ymin) - (Xmax, Ymax) : (1, 43) - (201, 106)
+Pixel mask for object 1 "PAScarSide" : "VOC2005_1/GTMasks/ETHZ_sideviews-cars/sportscar2-sml-lt.png"

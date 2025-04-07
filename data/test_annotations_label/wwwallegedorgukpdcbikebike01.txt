@@ -1,0 +1,19 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/bike/wwwallegedorgukpdcbikebike01.png"
+Image size (X x Y x C) : 320 x 240 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 2 { "PASbicycle" "PASbicycleSide" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASbicycle")
+Original label for object 1 "PASbicycle" : "none"
+Bounding box for object 1 "PASbicycle" (Xmin, Ymin) - (Xmax, Ymax) : (-25, 10) - (55, 196)
+
+# Details for object 2 ("PASbicycleSide")
+Original label for object 2 "PASbicycleSide" : "none"
+Bounding box for object 2 "PASbicycleSide" (Xmin, Ymin) - (Xmax, Ymax) : (18, 15) - (294, 199)

@@ -1,0 +1,19 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/pedestrian/wwwaccessboardgovpublicationsroundaboutsfig3.png"
+Image size (X x Y x C) : 400 x 300 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 2 { "PASpersonWalking" "PAScarSide" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASpersonWalking")
+Original label for object 1 "PASpersonWalking" : "none"
+Bounding box for object 1 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (233, 92) - (276, 177)
+
+# Details for object 2 ("PAScarSide")
+Original label for object 2 "PAScarSide" : "none"
+Bounding box for object 2 "PAScarSide" (Xmin, Ymin) - (Xmax, Ymax) : (275, 89) - (486, 157)

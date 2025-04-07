@@ -1,0 +1,23 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/pedestrian/photonetphotopcd0511stockholmeveinpedestrianstreetwithgunstatue233.png"
+Image size (X x Y x C) : 784 x 536 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 3 { "PASpersonStanding" "PASpersonWalking" "PASpersonWalking" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASpersonStanding")
+Original label for object 1 "PASpersonStanding" : "none"
+Bounding box for object 1 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (163, 240) - (221, 467)
+
+# Details for object 2 ("PASpersonWalking")
+Original label for object 2 "PASpersonWalking" : "none"
+Bounding box for object 2 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (75, 250) - (122, 347)
+
+# Details for object 3 ("PASpersonWalking")
+Original label for object 3 "PASpersonWalking" : "none"
+Bounding box for object 3 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (19, 242) - (61, 328)

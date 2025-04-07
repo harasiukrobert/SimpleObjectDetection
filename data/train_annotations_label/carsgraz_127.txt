@@ -1,0 +1,16 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_1/PNGImages/TUGraz_cars/carsgraz_127.png"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "The VOC2005 Dataset 1 Database (TUGraz)"
+Objects with ground truth : 1 { "PAScar" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PAScar")
+Original label for object 1 "PAScar" : "car"
+Bounding box for object 1 "PAScar" (Xmin, Ymin) - (Xmax, Ymax) : (430, 139) - (630, 318)
+Pixel mask for object 1 "PAScar" : "VOC2005_1/GTMasks/TUGraz_cars/carsgraz_127.png"

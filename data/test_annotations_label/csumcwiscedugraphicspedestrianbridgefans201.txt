@@ -1,0 +1,31 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/pedestrian/csumcwiscedugraphicspedestrianbridgefans201.png"
+Image size (X x Y x C) : 400 x 600 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 5 { "PASpersonWalking" "PASpersonWalking" "PASpersonWalking" "PASpersonWalking" "PASpersonWalking" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASpersonWalking")
+Original label for object 1 "PASpersonWalking" : "none"
+Bounding box for object 1 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (132, 217) - (176, 312)
+
+# Details for object 2 ("PASpersonWalking")
+Original label for object 2 "PASpersonWalking" : "none"
+Bounding box for object 2 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (169, 228) - (211, 317)
+
+# Details for object 3 ("PASpersonWalking")
+Original label for object 3 "PASpersonWalking" : "none"
+Bounding box for object 3 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (214, 196) - (261, 303)
+
+# Details for object 4 ("PASpersonWalking")
+Original label for object 4 "PASpersonWalking" : "none"
+Bounding box for object 4 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (261, 202) - (307, 298)
+
+# Details for object 5 ("PASpersonWalking")
+Original label for object 5 "PASpersonWalking" : "none"
+Bounding box for object 5 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (339, 206) - (392, 300)

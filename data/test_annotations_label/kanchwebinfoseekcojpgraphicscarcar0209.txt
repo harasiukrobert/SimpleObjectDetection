@@ -1,0 +1,15 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/car/kanchwebinfoseekcojpgraphicscarcar0209.png"
+Image size (X x Y x C) : 600 x 450 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 1 { "PAScarRear" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PAScarRear")
+Original label for object 1 "PAScarRear" : "none"
+Bounding box for object 1 "PAScarRear" (Xmin, Ymin) - (Xmax, Ymax) : (125, 119) - (497, 360)

@@ -1,0 +1,23 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/pedestrian/omahaskicluborgPhotoalbum2004Crossing20the20Glenwood20Springs20pedestrian20bridge.png"
+Image size (X x Y x C) : 640 x 480 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 3 { "PASpersonWalking" "PASpersonWalking" "PASpersonWalking" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASpersonWalking")
+Original label for object 1 "PASpersonWalking" : "none"
+Bounding box for object 1 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (461, 90) - (610, 471)
+
+# Details for object 2 ("PASpersonWalking")
+Original label for object 2 "PASpersonWalking" : "none"
+Bounding box for object 2 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (285, 101) - (414, 418)
+
+# Details for object 3 ("PASpersonWalking")
+Original label for object 3 "PASpersonWalking" : "none"
+Bounding box for object 3 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (114, 77) - (249, 498)

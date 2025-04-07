@@ -1,0 +1,19 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/pedestrian/insidebinghamtoneduJanuaryFebruary31jan02xing.png"
+Image size (X x Y x C) : 360 x 282 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 2 { "PASpersonWalking" "PAScar" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASpersonWalking")
+Original label for object 1 "PASpersonWalking" : "none"
+Bounding box for object 1 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (187, 87) - (218, 167)
+
+# Details for object 2 ("PAScar")
+Original label for object 2 "PAScar" : "none"
+Bounding box for object 2 "PAScar" (Xmin, Ymin) - (Xmax, Ymax) : (5, 81) - (66, 117)

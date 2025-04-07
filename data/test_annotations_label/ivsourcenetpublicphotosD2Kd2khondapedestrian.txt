@@ -1,0 +1,19 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/pedestrian/ivsourcenetpublicphotosD2Kd2khondapedestrian.png"
+Image size (X x Y x C) : 512 x 341 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 2 { "PASperson" "PAScarSide" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASperson")
+Original label for object 1 "PASperson" : "none"
+Bounding box for object 1 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (233, 232) - (266, 309)
+
+# Details for object 2 ("PAScarSide")
+Original label for object 2 "PAScarSide" : "none"
+Bounding box for object 2 "PAScarSide" (Xmin, Ymin) - (Xmax, Ymax) : (291, 240) - (410, 285)

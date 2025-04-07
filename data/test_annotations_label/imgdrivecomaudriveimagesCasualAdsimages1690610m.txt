@@ -1,0 +1,19 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/car/imgdrivecomaudriveimagesCasualAdsimages1690610m.png"
+Image size (X x Y x C) : 258 x 193 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 2 { "PAScar" "PAScarSide" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PAScar")
+Original label for object 1 "PAScar" : "none"
+Bounding box for object 1 "PAScar" (Xmin, Ymin) - (Xmax, Ymax) : (32, 55) - (226, 158)
+
+# Details for object 2 ("PAScarSide")
+Original label for object 2 "PAScarSide" : "none"
+Bounding box for object 2 "PAScarSide" (Xmin, Ymin) - (Xmax, Ymax) : (-39, 43) - (58, 82)

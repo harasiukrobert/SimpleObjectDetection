@@ -1,0 +1,19 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/pedestrian/nonantumcomgallerygalleriesChicacoJul2002imagesTee20the20Pedestrian.png"
+Image size (X x Y x C) : 360 x 480 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 2 { "PASpersonStanding" "PAScar" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASpersonStanding")
+Original label for object 1 "PASpersonStanding" : "none"
+Bounding box for object 1 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (81, 133) - (198, 414)
+
+# Details for object 2 ("PAScar")
+Original label for object 2 "PAScar" : "none"
+Bounding box for object 2 "PAScar" (Xmin, Ymin) - (Xmax, Ymax) : (136, 149) - (390, 290)

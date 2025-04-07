@@ -1,0 +1,15 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/car/homepagesrootswebcomtnoyecar206.png"
+Image size (X x Y x C) : 432 x 324 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 1 { "PAScarFrontal" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PAScarFrontal")
+Original label for object 1 "PAScarFrontal" : "none"
+Bounding box for object 1 "PAScarFrontal" (Xmin, Ymin) - (Xmax, Ymax) : (115, 124) - (302, 257)

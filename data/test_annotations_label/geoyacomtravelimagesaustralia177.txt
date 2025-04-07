@@ -1,0 +1,15 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/motorbike/geoyacomtravelimagesaustralia177.png"
+Image size (X x Y x C) : 640 x 450 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 1 { "PASmotorbikeSide" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASmotorbikeSide")
+Original label for object 1 "PASmotorbikeSide" : "none"
+Bounding box for object 1 "PASmotorbikeSide" (Xmin, Ymin) - (Xmax, Ymax) : (359, 285) - (506, 373)

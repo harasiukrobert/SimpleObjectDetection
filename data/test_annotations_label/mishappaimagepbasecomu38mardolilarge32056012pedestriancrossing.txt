@@ -1,0 +1,31 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/pedestrian/mishappaimagepbasecomu38mardolilarge32056012pedestriancrossing.png"
+Image size (X x Y x C) : 800 x 508 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 5 { "PASpersonWalking" "PASpersonWalking" "PASpersonWalking" "PASpersonWalking" "PASpersonWalking" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASpersonWalking")
+Original label for object 1 "PASpersonWalking" : "none"
+Bounding box for object 1 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (396, 78) - (497, 347)
+
+# Details for object 2 ("PASpersonWalking")
+Original label for object 2 "PASpersonWalking" : "none"
+Bounding box for object 2 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (327, 108) - (408, 345)
+
+# Details for object 3 ("PASpersonWalking")
+Original label for object 3 "PASpersonWalking" : "none"
+Bounding box for object 3 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (175, 94) - (268, 320)
+
+# Details for object 4 ("PASpersonWalking")
+Original label for object 4 "PASpersonWalking" : "none"
+Bounding box for object 4 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (114, 87) - (178, 340)
+
+# Details for object 5 ("PASpersonWalking")
+Original label for object 5 "PASpersonWalking" : "none"
+Bounding box for object 5 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (57, 113) - (126, 301)

@@ -1,0 +1,15 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/motorbike/homenetpowernoolavttenerifecristiancristi44.png"
+Image size (X x Y x C) : 338 x 254 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 1 { "PASmotorbike" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASmotorbike")
+Original label for object 1 "PASmotorbike" : "none"
+Bounding box for object 1 "PASmotorbike" (Xmin, Ymin) - (Xmax, Ymax) : (168, 118) - (229, 181)

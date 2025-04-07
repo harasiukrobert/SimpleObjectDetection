@@ -1,0 +1,15 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/INRIA_inria-person-test/crop_000019.png"
+Image size (X x Y x C) : 933 x 720 x 3
+Database : "The VOC2005 Testset 2 Database (INRIA)"
+Objects with ground truth : 1 { "PASperson" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASperson")
+Original label for object 1 "PASperson" : "UprightPerson"
+Bounding box for object 1 "PASperson" (Xmin, Ymin) - (Xmax, Ymax) : (413, 82) - (624, 667)

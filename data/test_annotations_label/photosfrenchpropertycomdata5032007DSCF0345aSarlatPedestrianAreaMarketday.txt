@@ -1,0 +1,35 @@
+# PASCAL Annotation Version 1.00
+
+Image filename : "VOC2005_2/PNGImages/pedestrian/photosfrenchpropertycomdata5032007DSCF0345aSarlatPedestrianAreaMarketday.png"
+Image size (X x Y x C) : 450 x 600 x 3
+Database : "The VOC2005 Testset 2 Database"
+Objects with ground truth : 6 { "PASpersonStanding" "PASpersonWalking" "PASpersonWalking" "PASpersonStanding" "PASpersonWalking" "PASpersonWalking" }
+
+# Note that there might be other objects in the image
+# for which ground truth data has not been provided.
+
+# Top left pixel co-ordinates : (1, 1)
+
+# Details for object 1 ("PASpersonStanding")
+Original label for object 1 "PASpersonStanding" : "none"
+Bounding box for object 1 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (52, 317) - (111, 523)
+
+# Details for object 2 ("PASpersonWalking")
+Original label for object 2 "PASpersonWalking" : "none"
+Bounding box for object 2 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (130, 326) - (190, 503)
+
+# Details for object 3 ("PASpersonWalking")
+Original label for object 3 "PASpersonWalking" : "none"
+Bounding box for object 3 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (193, 313) - (265, 514)
+
+# Details for object 4 ("PASpersonStanding")
+Original label for object 4 "PASpersonStanding" : "none"
+Bounding box for object 4 "PASpersonStanding" (Xmin, Ymin) - (Xmax, Ymax) : (268, 320) - (324, 448)
+
+# Details for object 5 ("PASpersonWalking")
+Original label for object 5 "PASpersonWalking" : "none"
+Bounding box for object 5 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (389, 333) - (436, 458)
+
+# Details for object 6 ("PASpersonWalking")
+Original label for object 6 "PASpersonWalking" : "none"
+Bounding box for object 6 "PASpersonWalking" (Xmin, Ymin) - (Xmax, Ymax) : (367, 328) - (410, 433)
