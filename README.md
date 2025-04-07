@@ -53,3 +53,19 @@ The table below shows the validation metrics obtained for both models after 100 
     * **Model 1** is preferred if the priority is **accurate object counting**.
     * **Model 2** is a better choice if **high localization accuracy (IoU)** is crucial, at the cost of slightly less accurate counting.
 
+## Prediction Examples
+*Below is an example visualization of a prediction. Red boxes indicate the model's predictions, while green boxes represent the ground truth. The text includes the predicted object count and the predicted classes for the entire image.*
+
+### Model 1 (Direct Detection)
+![1](https://github.com/user-attachments/assets/60f3b87f-335d-4a22-b786-17d5412b1ee9)
+![2](https://github.com/user-attachments/assets/daaa5d53-902c-4bda-af26-7931acd93b86)
+![3](https://github.com/user-attachments/assets/4c20060a-0ca2-43b3-aabb-b7fda5d1e547)
+![4](https://github.com/user-attachments/assets/d6d10a19-8951-437d-a542-7641c6c24d1e)
+![5](https://github.com/user-attachments/assets/36a309dc-e851-403c-a080-2ee526fbad99)
+
+### Model 2 (Segmentation-based Detection)
+![1-w](https://github.com/user-attachments/assets/9e57b841-6352-4c83-8919-be21784a396a)
+![2-w](https://github.com/user-attachments/assets/613a63b7-93b0-422b-93e2-2c986cda5e5b)
+![3w](https://github.com/user-attachments/assets/bf809757-4702-4655-8efd-c62497c27d15)
+![4w](https://github.com/user-attachments/assets/bf84301b-629d-408f-8736-ad7bff35ad9f)
+![5w](https://github.com/user-attachments/assets/76cac43a-2365-450e-8c59-6586087469c7)
