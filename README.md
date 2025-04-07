@@ -53,9 +53,3 @@ The table below shows the validation metrics obtained for both models after 100 
     * **Model 1** is preferred if the priority is **accurate object counting**.
     * **Model 2** is a better choice if **high localization accuracy (IoU)** is crucial, at the cost of slightly less accurate counting.
 
-## Usage
-
-* **Dependencies:** Install the required libraries (likely from a `requirements.txt` file, if provided). Key dependencies include `torch`, `pytorch-lightning`, `torchvision`, `torchmetrics`, `albumentations`, `opencv-python-headless`, `segmentation-models-pytorch` (for Model 2), `numpy`, `matplotlib`.
-* **Data:** Prepare the data (images, `.txt` annotations, `.png` masks for Model 2) in the structure expected by the `dataset.py` / `dataset_mask.py` scripts (e.g., in folders like `data/train_png`, `data/val_png`, `data/train_annotations_label`, `data/train_annotations_masks`, etc.).
-* **Training:** Run the appropriate script, e.g., `python main.py` or `python main_mask.py`. Models and checkpoints will be saved in the `checkpoints/` directory.
-* **Prediction:** The scripts also include `predict_step` logic for visualizing results on the test set after training is complete.
